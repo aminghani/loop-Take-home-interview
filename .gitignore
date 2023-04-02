@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+
+# C extensions
+*.so
+*.dll
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# PyCharm files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.dsk
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Other
+*.bak
+*.swp
+*.tmp
+*.log
+.DS_Store
+
+config.ini
+
+#Ignore cached files
+cache/
+
+pyvenv.cfg
