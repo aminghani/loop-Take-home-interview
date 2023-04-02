@@ -7,7 +7,7 @@ from fastapi.responses import StreamingResponse
 import io
 
 
-CACHE_DIR_RESULT = "./cache/result.csv"
+CACHE_DIR_RESULT = "screenshots/result.csv"
 CACHE_DIR_DATA_STATUS = "./cache/store status.csv"
 CACHE_DIR_DATA_HOURS = "./cache/Menu hours.csv"
 CACHE_DIR_DATA_TIMEZONES = "./cache/store timezones.csv"
